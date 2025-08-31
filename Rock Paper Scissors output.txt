@@ -1,0 +1,68 @@
+===Rock,Paper,Scissors===
+Enter Your choice
+1. Rock
+2. Paper
+3. Scissors
+4. Exit the game
+Your choice (1-4):1
+
+You Chose: Rock - Computer Chose: Scissors
+You win this round
+Score---Player: 1 --- Computer: 0
+
+----------------------------------------
+Enter Your choice
+1. Rock
+2. Paper
+3. Scissors
+4. Exit the game
+Your choice (1-4):2
+
+You Chose: Paper - Computer Chose: Rock
+You win this round
+Score---Player: 2 --- Computer: 0
+
+----------------------------------------
+Enter Your choice
+1. Rock
+2. Paper
+3. Scissors
+4. Exit the game
+Your choice (1-4):2
+
+You Chose: Paper - Computer Chose: Rock
+You win this round
+Score---Player: 3 --- Computer: 0
+
+----------------------------------------
+Enter Your choice
+1. Rock
+2. Paper
+3. Scissors
+4. Exit the game
+Your choice (1-4):hellow
+Invalid input(Please enter 1,2,3 or 4)
+Enter Your choice
+1. Rock
+2. Paper
+3. Scissors
+4. Exit the game
+Your choice (1-4):3
+
+You Chose: Scissors - Computer Chose: Rock
+Computer win this round
+Score---Player: 3 --- Computer: 1
+
+----------------------------------------
+Enter Your choice
+1. Rock
+2. Paper
+3. Scissors
+4. Exit the game
+Your choice (1-4):4
+
+ Thanks for playing
+Final Score: player 3 - 1 Computer
+Total rounds played: 4
+
+Process finished with exit code 0
